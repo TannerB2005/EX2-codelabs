@@ -35,5 +35,7 @@
 
 header {
     position: sticky;
+    top: 0px;
     background-color: aliceblue;
+    border: 2px solid #acacac;
 }
