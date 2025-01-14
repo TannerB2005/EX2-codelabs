@@ -69,4 +69,16 @@
  .dropdown-content a:target{background-color: #442222;}
  .dropdown:target .dropdown-content {display: block;}
  .dropdown.dropdown:target .dropbtn {background-color: #3e8e41;} */
+
+ img {
+    display: flex;
+    flex-direction: row;
+ }
+
+ @media (max-width: 800px) {
+    .flex-container {
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+ }
  
