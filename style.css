@@ -1,0 +1,39 @@
+.body {
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin: 30px;
+}
+/* .box{
+    background-color: rgb(161, 161, 237);
+    border: 10px solid orange;
+    margin: 10px;
+    padding: 10px;
+}
+#two {
+    margin: 20px;
+    padding: 7%;
+    border: 10%;
+}
+#three {
+    margin: 10%;
+    padding: 0%;
+    border: 3%;
+} 
+
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+}
+    */
+
+header {
+    position: sticky;
+    background-color: aliceblue;
+}
