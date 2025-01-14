@@ -39,7 +39,8 @@
     background-color: aliceblue;
     border: 2px solid #acacac;
 } */
- .dropbtn {
+
+ /* .dropbtn {
     background-color: #040404;
     color: white;
     padding: 16px;
@@ -65,6 +66,7 @@
     display: block;
  }
 
- .dropdown-content a:hover {background-color: #ddd;}
- .dropdown:hover .dropdown-content {display: block;}
- .dropdown:hover .dropbtn {background-color: #3e8e41;}
+ .dropdown-content a:target{background-color: #442222;}
+ .dropdown:target .dropdown-content {display: block;}
+ .dropdown.dropdown:target .dropbtn {background-color: #3e8e41;} */
+ 
